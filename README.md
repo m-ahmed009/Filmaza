@@ -29,23 +29,33 @@ Clone the repository:
 
 bash
 Copy code
+
 git clone https://github.com/m-ahmed009/Filmaza.git
+
 Navigate to the project directory:
 
 bash
+
 Copy code
+
 cd Filmaza
 Install the dependencies:
 
 bash
+
 Copy code
+
 npm install
-Start the application:
+
+# Start the application:
 
 bash
+
 Copy code
+
 npm start
-Contribution
+
+# Contribution
 Contributions are welcome! If you have suggestions for improvements or want to add features, feel free to open an issue or submit a pull request.
 
 # License
