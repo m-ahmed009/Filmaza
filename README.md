@@ -27,33 +27,19 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-bash
-Copy code
-
-# git clone https://github.com/m-ahmed009/Filmaza.git
+-- git clone https://github.com/m-ahmed009/Filmaza.git
 
 Navigate to the project directory:
 
-bash
+-- cd Filmaza
 
-Copy code
-
-# cd Filmaza
 Install the dependencies:
 
-bash
-
-Copy code
-
-# npm install
+-- npm install
 
 # Start the application:
 
-bash
-
-Copy code
-
-npm start
+-- npm start
 
 # Contribution
 Contributions are welcome! If you have suggestions for improvements or want to add features, feel free to open an issue or submit a pull request.
