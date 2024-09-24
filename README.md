@@ -30,7 +30,7 @@ Clone the repository:
 bash
 Copy code
 
-git clone https://github.com/m-ahmed009/Filmaza.git
+# git clone https://github.com/m-ahmed009/Filmaza.git
 
 Navigate to the project directory:
 
@@ -38,14 +38,14 @@ bash
 
 Copy code
 
-cd Filmaza
+# cd Filmaza
 Install the dependencies:
 
 bash
 
 Copy code
 
-npm install
+# npm install
 
 # Start the application:
 
