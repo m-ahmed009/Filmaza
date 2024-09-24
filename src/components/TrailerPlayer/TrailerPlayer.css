@@ -1,0 +1,47 @@
+
+.trailer-player {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #222529;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.377);
+}
+
+/* Styling for the iframe (video player) */
+.trailer-player iframe {
+  width: 100%;
+  max-width: 800px; /* Limit the maximum width */
+  height: 500px;
+  border: none;
+  border-radius: 10px; /* Rounded corners on the video player */
+}
+.play-text
+{
+    font-weight: 400;
+    font-size: 30px;
+    border-bottom: 2px solid red;
+    text-align: center;
+}
+
+/* Title styling */
+h2 {
+  color: #f8f9fa;
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* Make sure the container is responsive */
+@media (max-width: 768px) {
+  .trailer-player iframe {
+    height: 300px; /* Adjust height for smaller screens */
+  }
+
+  h2 {
+    font-size: 24px;
+  }
+}
