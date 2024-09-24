@@ -22,6 +22,9 @@ Firebase: For backend services, including authentication, real-time database, an
 
 CSS Frameworks: Utilized Bootstrap or custom CSS for styling and layout.
 
+# Live Demo:
+https://filmaza.netlify.app/
+
 # Installation
 To run this project locally, follow these steps:
 
